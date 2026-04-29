@@ -4,13 +4,13 @@
   "TRAVEL_DATE": "01/05/2026",
   "SOURCE_STATION": "CSMT",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "bau",
+  "DESTINATION_STATION": "BAU",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Karan upta",
+      "NAME": "Karan Gupta",
       "AGE": 25,
       "GENDER": "Male",
       "SEAT": "Middle",
